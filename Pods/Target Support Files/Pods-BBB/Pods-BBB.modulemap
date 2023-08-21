@@ -1,0 +1,6 @@
+framework module Pods_BBB {
+  umbrella header "Pods-BBB-umbrella.h"
+
+  export *
+  module * { export * }
+}
